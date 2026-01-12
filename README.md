@@ -142,33 +142,3 @@ cd frontend && npm test
 # E2E tests
 npm run test:e2e
 ```
-
-## 📊 Development Roadmap
-
-- [x] Project setup
-- [ ] Phase 1: Core betting engine (MVP)
-- [ ] Phase 2: Social features
-- [ ] Phase 3: Performance optimization
-- [ ] Phase 4: Production deployment
-
-## 🎓 Learning Outcomes
-
-This project demonstrates:
-- **Distributed systems** (locking, consistency)
-- **Financial transaction safety** (ACID, escrow)
-- **Real-time architectures** (WebSockets, pub/sub)
-- **Scalable API design** (NestJS modules, caching)
-- **Modern frontend** (Next.js 14, Server Components)
-- **DevOps practices** (Docker, CI/CD)
-
-## 📝 License
-
-MIT License - feel free to use this for learning or portfolio purposes.
-
-## 🤝 Contributing
-
-This is a portfolio/educational project, but suggestions are welcome!
-
----
-
-**Built to impress.** 🚀
